@@ -1,0 +1,82 @@
+.row{background-color:rgba(248, 248, 248, 0.925)}
+
+.col1{
+    margin: 1px;
+    min-height: 1000px;
+    text-align: center;
+    background-color: rgb(111, 189, 235);
+}
+
+.col2{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(33, 71, 175);
+}
+
+.col3{
+    margin: 1px;
+    min-height: 1000px;
+    text-align: center;
+    background-color: rgb(111, 189, 235);
+}
+
+.col4{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+.col5{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(33, 71, 175);
+}
+
+.col6{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: green;
+}
+
+.col7{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+.insidecol{
+    min-height: 100px;
+    text-align: center;
+    background-color: rgb(247, 133, 4);
+}
+
+.insidecol1{
+    min-height: 100px;
+    text-align: center;
+    background-color: rgb(247, 133, 4);
+}
+
+.insidecol2{
+    min-height: 100px;
+    text-align: center;
+    background-color: rgb(247, 133, 4);
+}
+
+.adress-headers{
+    margin:auto;
+    min-height: 40px;
+    text-align: center;
+    background-color: rgb(111, 189, 235);
+}
+
+.adress-data{
+    margin:auto;
+    min-height: 900px;
+    text-align:left;
+    background-color: rgb(111, 189, 235);
+}
